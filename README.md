@@ -1,5 +1,5 @@
 # Atividades de informatica
-## Um pouco sobre eu
+## Um pouco sobre mim
 Meu nome é Camille Vitória e eu criei esse repositorio para colocar as atividades de informatica e informações ligadas ao curso de logística.
 |    Aluna     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
