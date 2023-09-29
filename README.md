@@ -1,1 +1,6 @@
-# Informatica
+# Atividades de informatica
+## Um pouco sobre eu
+Meu nome é Camille Vitória e eu criei esse repositorio para colocar as atividades de informatica e informações ligadas ao curso de logística.
+|    Aluna     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 3   | Camille Vitória |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camille-vitoria-692099246) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Camillevcrocha)        |
